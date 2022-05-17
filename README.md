@@ -55,17 +55,17 @@ for line in lines:
 plt.imshow(edges1)
 ~~~
 
-## Output
+## Output:
 
-### Input image and grayscale image
+### Input image and grayscale image:
 
 ![output](1.png)
 
-### Canny Edge detector output
+### Canny Edge detector output:
 
 ![output](2.png)
 
-### Display the result of Hough transform
+### Display the result of Hough transform:
 
 ![output](3.png)
 
